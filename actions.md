@@ -28,3 +28,4 @@ brew install tesseract-lang
 ```
 Проблема в несовместимости пакетов: tesseract==5.x, tesseract-lang==4.x.
 Надо решить проблему путем установки tesseract 4.x через brew.
+Brew-формула для тессеракта 4.1.3: https://github.com/Homebrew/homebrew-core/blob/c69bf1e5fb6baba54f1d1006a42a5ed6df698e1f/Formula/tesseract.rb
