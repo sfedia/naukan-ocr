@@ -7,6 +7,7 @@ tesseract --oem 0 -l rus rus.nenl1985-p4-1.exp0.tiff rus.nenl1985-p4-1.exp0 batc
 ```
 open qt-box-editor-1.13.0-alpha.app
 ```
+Работает только с тессерактом из brew
 
 ## Установка тессеракта 4 + rus через макпортс
 ```
