@@ -25,4 +25,4 @@ brew install tesseract
 brew install tesseract-lang 
 ```
 Проблема в несовместимости пакетов: tesseract==5.x, tesseract-lang==4.x.
-Надо решить проблему.
+Надо решить проблему путем установки tesseract 4.x через brew.
