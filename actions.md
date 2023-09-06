@@ -14,6 +14,10 @@ open qt-box-editor-1.13.0-alpha.app
 sudo port install tesseract
 sudo port install tesseract-rus
 ```
+Ставится `tesseract @4.1.3_3` и `tesseract-rus @4.1.0_0`.
+
+## Установка тессеракта 4 через brew
+Надо самим сделать формулу.
 
 ## Установка тессеракта 5 + rus через brew
 ```
