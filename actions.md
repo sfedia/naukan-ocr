@@ -23,6 +23,10 @@ nenl1985 0 0 0 0 0
 ```
 mftraining -F font_properties -U unicharset -O ynk.unicharset ynk.nenl1985.exp0.tr ynk.nenl1985.exp1.tr ...
 ```
+## cntraining по .tr файлам
+```
+cntraining ynk.nenl1985.exp0.tr ynk.nenl1985.exp1.tr ...
+```
 
 ## Запуск редактора боксов
 ### Онлайн
