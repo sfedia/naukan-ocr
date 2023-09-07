@@ -2,6 +2,10 @@
 ```
 tesseract --oem 0 -l rus rus.nenl1985-p4-1.exp0.png rus.nenl1985-p4-1.exp0 batch.nochop makebox
 ```
+## Тренировка на основе бокса
+```
+tesseract rus.nenl1985-p4-1.exp0.png rus.nenl1985-p4-1.exp0 box.train
+```
 
 ## Запуск редактора боксов
 ### Онлайн
