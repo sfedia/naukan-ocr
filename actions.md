@@ -1,14 +1,31 @@
 ## Генерация бокса
 ```
-tesseract --oem 0 -l rus rus.nenl1985-p4-1.exp0.png rus.nenl1985-p4-1.exp0 batch.nochop makebox
+tesseract --oem 0 -l rus ynk.nenl1985.exp0.png ynk.nenl1985.exp0 batch.nochop makebox
 ```
-## Тренировка на основе бокса
+## Тренировка на основе (исправленного) бокса 
 ```
-tesseract rus.nenl1985-p4-1.exp0.png rus.nenl1985-p4-1.exp0 box.train
+tesseract ynk.nenl1985.exp0.png ynk.nenl1985.exp0 box.train
 ```
+На выходе на этом этапе - `.tr` файлы
 ## Извлечение unicharset
 ```
-unicharset_extractor rus.nenl1985.exp0.box rus.nenl1985.exp1.box ...
+unicharset_extractor ynk.nenl1985.exp0.box ynk.nenl1985.exp1.box ...
+```
+## Оформление font_properties
+```
+<fontname> <italic> <bold> <fixed> <serif> <fraktur>
+```
+В случае с nenl1985:
+```
+nenl1985 0 0 0 0 0
+```
+## mftraining по .tr файлам
+```
+mftraining -F font_properties -U unicharset -O ynk.unicharset ynk.nenl1985.exp0.tr ynk.nenl1985.exp1.tr ...
+```
+## cntraining по .tr файлам
+```
+cntraining ynk.nenl1985.exp0.tr ynk.nenl1985.exp1.tr ...
 ```
 
 ## Запуск редактора боксов
