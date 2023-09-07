@@ -21,9 +21,10 @@ sudo port install tesseract-rus
 ## Установка тессеракта 4 через brew
 Brew-формула для тессеракта 4.1.3: https://github.com/Homebrew/homebrew-core/blob/c69bf1e5fb6baba54f1d1006a42a5ed6df698e1f/Formula/tesseract.rb
 
-Можно скачать .rb и собрать (todo: проверить этот вариант)
+Можно скачать .rb и собрать
 ```
-brew install --build-from-source <formula>
+wget https://raw.githubusercontent.com/Homebrew/homebrew-core/c69bf1e5fb6baba54f1d1006a42a5ed6df698e1f/Formula/tesseract.rb
+brew install --build-from-source tesseract.rb
 ```
 
 ## Установка тессеракта 5 + rus через brew
