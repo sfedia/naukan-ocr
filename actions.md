@@ -4,7 +4,7 @@ tesseract --oem 0 -l rus ynk.nenl1985.exp1.jpg ynk.nenl1985.exp1 batch.nochop ma
 ```
 ## Тренировка на основе (исправленного) бокса 
 ```
-tesseract ynk.nenl1985.exp0.png ynk.nenl1985.exp0 box.train
+tesseract -l rus ynk.nenl1985.exp1.jpg ynk.nenl1985.exp1 box.train
 ```
 На выходе на этом этапе - `.tr` файлы
 ## Извлечение unicharset
