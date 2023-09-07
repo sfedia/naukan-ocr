@@ -6,6 +6,10 @@ tesseract --oem 0 -l rus rus.nenl1985-p4-1.exp0.png rus.nenl1985-p4-1.exp0 batch
 ```
 tesseract rus.nenl1985-p4-1.exp0.png rus.nenl1985-p4-1.exp0 box.train
 ```
+## Извлечение unicharset
+```
+unicharset_extractor rus.nenl1985.exp0.box rus.nenl1985.exp1.box ...
+```
 
 ## Запуск редактора боксов
 ### Онлайн
