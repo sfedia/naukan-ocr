@@ -6,7 +6,7 @@ tesseract --oem 0 -l rus ynk.nenl1985.exp0.png ynk.nenl1985.exp0 batch.nochop ma
 ```
 tesseract ynk.nenl1985.exp0.png ynk.nenl1985.exp0 box.train
 ```
-На выходе на этом этапе - `.tr` (`fontfile.tr`)
+На выходе на этом этапе - `.tr` файлы
 ## Извлечение unicharset
 ```
 unicharset_extractor ynk.nenl1985.exp0.box ynk.nenl1985.exp1.box ...
@@ -18,6 +18,10 @@ unicharset_extractor ynk.nenl1985.exp0.box ynk.nenl1985.exp1.box ...
 В случае с nenl1985:
 ```
 nenl1985 0 0 0 0 0
+```
+## mftraining по .tr файлам
+```
+mftraining -F font_properties -U unicharset -O ynk.unicharset ynk.nenl1985.exp0.tr ynk.nenl1985.exp1.tr ...
 ```
 
 ## Запуск редактора боксов
