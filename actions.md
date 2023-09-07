@@ -1,6 +1,6 @@
 ## Генерация бокса
 ```
-tesseract --oem 0 -l rus ynk.nenl1985.exp0.png ynk.nenl1985.exp0 batch.nochop makebox
+tesseract --oem 0 -l rus ynk.nenl1985.exp1.jpg ynk.nenl1985.exp1 batch.nochop makebox
 ```
 ## Тренировка на основе (исправленного) бокса 
 ```
