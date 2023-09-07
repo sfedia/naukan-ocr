@@ -10,6 +10,14 @@ tesseract ynk.nenl1985.exp0.png ynk.nenl1985.exp0 box.train
 ```
 unicharset_extractor ynk.nenl1985.exp0.box ynk.nenl1985.exp1.box ...
 ```
+## Оформление font_properties
+```
+<fontname> <italic> <bold> <fixed> <serif> <fraktur>
+```
+В случае с nenl1985:
+```
+nenl1985 0 0 0 0 0
+```
 
 ## Запуск редактора боксов
 ### Онлайн
