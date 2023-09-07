@@ -2,7 +2,7 @@
 ```
 tesseract --oem 0 -l rus ynk.nenl1985.exp0.png ynk.nenl1985.exp0 batch.nochop makebox
 ```
-## Тренировка на основе бокса
+## Тренировка на основе (исправленного) бокса 
 ```
 tesseract ynk.nenl1985.exp0.png ynk.nenl1985.exp0 box.train
 ```
