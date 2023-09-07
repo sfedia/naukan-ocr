@@ -6,6 +6,7 @@ tesseract --oem 0 -l rus ynk.nenl1985.exp0.png ynk.nenl1985.exp0 batch.nochop ma
 ```
 tesseract ynk.nenl1985.exp0.png ynk.nenl1985.exp0 box.train
 ```
+На выходе на этом этапе - `.tr` (`fontfile.tr`)
 ## Извлечение unicharset
 ```
 unicharset_extractor ynk.nenl1985.exp0.box ynk.nenl1985.exp1.box ...
