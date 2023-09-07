@@ -4,6 +4,10 @@ tesseract --oem 0 -l rus rus.nenl1985-p4-1.exp0.tiff rus.nenl1985-p4-1.exp0 batc
 ```
 
 ## Запуск редактора боксов
+### Онлайн
+http://johanjunkka.com/tesseract-web-box-editor/
+Не поддерживает tiff
+### Оффлайн
 ```
 open qt-box-editor-1.13.0-alpha.app
 ```
