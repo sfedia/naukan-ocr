@@ -44,6 +44,7 @@ open qt-box-editor-1.13.0-alpha.app
 ```
 sudo port install tesseract
 sudo port install tesseract-rus
+sudo port install tesseract-training
 ```
 Ставится `tesseract @4.1.3_3` и `tesseract-rus @4.1.0_0`.
 
