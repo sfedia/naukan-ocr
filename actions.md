@@ -1,14 +1,14 @@
 ## Генерация бокса
 ```
-tesseract --oem 0 -l rus rus.nenl1985-p4-1.exp0.png rus.nenl1985-p4-1.exp0 batch.nochop makebox
+tesseract --oem 0 -l rus ynk.nenl1985.exp0.png ynk.nenl1985.exp0 batch.nochop makebox
 ```
 ## Тренировка на основе бокса
 ```
-tesseract rus.nenl1985-p4-1.exp0.png rus.nenl1985-p4-1.exp0 box.train
+tesseract ynk.nenl1985.exp0.png ynk.nenl1985.exp0 box.train
 ```
 ## Извлечение unicharset
 ```
-unicharset_extractor rus.nenl1985.exp0.box rus.nenl1985.exp1.box ...
+unicharset_extractor ynk.nenl1985.exp0.box ynk.nenl1985.exp1.box ...
 ```
 
 ## Запуск редактора боксов
