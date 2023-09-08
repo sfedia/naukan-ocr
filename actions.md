@@ -33,6 +33,13 @@ mftraining -F font_properties -U unicharset -O ynk.unicharset ynk.nenl1985.exp0.
 cntraining ynk.nenl1985.exp0.tr ynk.nenl1985.exp1.tr ...
 ```
 
+## Тестирование
+```
+sudo cp training/nenl1985/ynk.traineddata /opt/local/share/tessdata
+cd tests/
+tesseract nenl1985.12.2.jpg nenl1985.12.2 -l ynk
+```
+
 ## Запуск редактора боксов
 ### Онлайн
 http://johanjunkka.com/tesseract-web-box-editor/
