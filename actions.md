@@ -37,7 +37,7 @@ cntraining ynk.nenl1985.exp0.tr ynk.nenl1985.exp1.tr ...
 ```
 sudo cp training/nenl1985/ynk.traineddata /opt/local/share/tessdata
 cd tests/
-tesseract nenl1985.12.2.jpg nenl1985.12.2.txt -l ynk
+tesseract nenl1985.12.2.jpg nenl1985.12.2 -l ynk
 ```
 
 ## Запуск редактора боксов
