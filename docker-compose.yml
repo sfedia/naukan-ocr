@@ -1,0 +1,11 @@
+services:
+  naukan-ocr:
+    build: .
+    environment:
+      - DEBUG=1
+    tty: true
+    stdin_open: true
+    volumes:
+      - type: bind
+        source: ./
+        target: /app
