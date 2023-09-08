@@ -1,4 +1,3 @@
-fyodorsizov@Fyodors-MacBook-Pro nenl1985 % unicharset_extractor ynk.nenl1985.exp0.box ynk.nenl1985.exp1.box ynk.nenl1985.exp2.box
 Extracting unicharset from box file ynk.nenl1985.exp0.box
 Extracting unicharset from box file ynk.nenl1985.exp1.box
 Extracting unicharset from box file ynk.nenl1985.exp2.box
@@ -11,6 +10,3 @@ Other case О of о is not in unicharset
 Other case Э of э is not in unicharset
 Other case Ш of ш is not in unicharset
 Wrote unicharset file unicharset
-fyodorsizov@Fyodors-MacBook-Pro nenl1985 % 
-
-
