@@ -35,7 +35,7 @@ cntraining ynk.nenl1985.exp0.tr ynk.nenl1985.exp1.tr ...
 
 ## Тестирование
 ```
-sudo cp training/nenl1985/ynk.traineddata /opt/local/share/tessdata
+export TESSDATA_PREFIX="$PWD/training/nenl1985"
 cd tests/
 tesseract nenl1985.12.2.jpg nenl1985.12.2 -l ynk
 ```
