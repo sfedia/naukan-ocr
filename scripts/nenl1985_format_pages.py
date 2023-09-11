@@ -9,6 +9,7 @@ os.chdir(folder)
 
 files = os.listdir(".")
 
+
 class Token:
     def __init__(self, text, left_index, right_index):
         self.text = text
@@ -54,7 +55,7 @@ def format_contents(cnt: str) -> str:
     result = []
     for line in cnt.splitlines():
         result.append(serialize_line(tokenize_and_format_line(line)))
-    return "\n".join(result)
+    return "\n".join(ln for ln in result if ln)
 
 
 for fn in files:
