@@ -280,3 +280,15 @@ elif action == "clean-trained":
                     shell=True
                 )
                 print(rm.decode("utf-8"))
+
+# python3 manager.py nenl1985 pin-traineddata
+elif action == "pin-traineddata":
+    files_in_folder = os.listdir(".")
+    td = [fn for fn in files_in_folder if fn.endswith(".traineddata")]
+    for traineddata_filename in td:
+        mv = subprocess.check_output(
+            f"cp {traineddata_filename} /usr/share/tesseract-ocr/4.00/tessdata",
+            stderr=subprocess.STDOUT,
+            shell=True
+        )
+        print(f"Pinned {traineddata_filename}")
