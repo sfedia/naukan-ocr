@@ -3,6 +3,8 @@ git show ynk-nenl1985-v3:training/nenl1985/ynk.traineddata > /usr/share/tesserac
 
 mkdir -p output/nenl1985/ ;
 
+python3 pipelines/collect-nenl1985.py input/nenl1985;
+
 cp input/nenl1985/* output/nenl1985/ ;
 
 python3 scripts/process_pages.py output/nenl1985 ynk ;
