@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-git show ynk-nenl1985-v3:training/nenl1985/ynk.traineddata > /usr/share/tesseract-ocr/4.00/tessdata/ynk.traineddata ;
+git show ynk-nenl1985-v3:train/nenl1985/ynk.traineddata > /usr/share/tesseract-ocr/4.00/tessdata/ynk.traineddata ;
 
 mkdir -p output/nenl1985/ ;
 mkdir -p input/nenl1985/;
