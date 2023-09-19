@@ -33,8 +33,8 @@ class Token:
         lc = len([x for x in self.text if x.islower()])
         if uc >= 2 and lc > 0:
             self.text = self.text.lower()
-        if self.is_first:
-            self.text = self.text[0].upper() + self.text[1:]
+            if self.is_first:
+                self.text = self.text[0].upper() + self.text[1:]
 
     def __str__(self) -> str:
         return self.text

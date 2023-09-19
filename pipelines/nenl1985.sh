@@ -2,6 +2,7 @@
 git show ynk-nenl1985-v3:training/nenl1985/ynk.traineddata > /usr/share/tesseract-ocr/4.00/tessdata/ynk.traineddata ;
 
 mkdir -p output/nenl1985/ ;
+mkdir -p input/nenl1985/;
 
 python3 pipelines/collect-nenl1985.py input/nenl1985;
 
