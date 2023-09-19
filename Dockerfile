@@ -17,4 +17,10 @@ RUN sed -i \
 
 RUN apt-get install -y vim
 
+RUN apt-get install -y poppler-utils
+
+RUN apt-get install -y python3-pip
+COPY requirements.txt requirements.txt
+RUN pip3 install -r requirements.txt
+
 #COPY . .
