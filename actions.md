@@ -40,6 +40,14 @@ cd tests/
 tesseract nenl1985.12.2.jpg nenl1985.12.2 -l ynk
 ```
 
+## Совмещение моделей для распознавания
+
+```
+git show ynk-nenl1985-v3.1:train/nenl1985/ynk.traineddata > /usr/share/tesseract-ocr/4.00/tessdata/ynk1.traineddata ;
+git show ynk-nenl1990-v4:train/nenl1990/ynk.traineddata > /usr/share/tesseract-ocr/4.00/tessdata/ynk2.traineddata ;
+tesseract nenl1990-1.jpg nenl1990-1 -l ynk1+ynk2
+```
+
 ## Запуск редактора боксов
 ### Онлайн
 http://johanjunkka.com/tesseract-web-box-editor/
