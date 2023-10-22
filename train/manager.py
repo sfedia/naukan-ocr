@@ -115,6 +115,7 @@ elif action == "train":
             raise Exception(f"Box #{pos} not in box index!")
         elif not box_index[str(pos)]["corrected"]:
             print(f"Box #{pos} not corrected, skip")
+            continue
         
         print(f"Training on box #{pos}")
         box_train = subprocess.check_output(
