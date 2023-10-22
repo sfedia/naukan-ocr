@@ -1,38 +1,38 @@
 {
-    "6": {
-      "corrected": true
-    },
-    "7": {
-      "corrected": true
-    },
-    "8": {
-      "corrected": true
-    },
-    "9": {
-      "corrected": true
-    },
-    "10": {
-      "corrected": true
-    },
-    "11": {
-      "corrected": true
-    },
-    "16": {
-      "corrected": true
-    },
-    "17": {
-      "corrected": true
-    },
-    "19": {
-      "corrected": true
-    },
-    "20": {
-      "corrected": true
-    },
-    "22": {
-      "corrected": true
-    },
-    "24": {
-      "corrected": true
-    }
+  "6": {
+    "corrected": false
+  },
+  "7": {
+    "corrected": false
+  },
+  "8": {
+    "corrected": false
+  },
+  "9": {
+    "corrected": false
+  },
+  "10": {
+    "corrected": false
+  },
+  "11": {
+    "corrected": false
+  },
+  "16": {
+    "corrected": false
+  },
+  "17": {
+    "corrected": false
+  },
+  "19": {
+    "corrected": false
+  },
+  "20": {
+    "corrected": false
+  },
+  "22": {
+    "corrected": false
+  },
+  "24": {
+    "corrected": false
   }
+}
