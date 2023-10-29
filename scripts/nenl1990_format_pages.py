@@ -18,6 +18,8 @@ class _Token(formatter.Token):
         self.text = re.sub(fr'({NON_VOWELS_REGEX})[вп]$', r'\g<1>а', self.text)
         self.text = re.sub(fr'^[вп]({NON_VOWELS_REGEX})', r'а\g<1>', self.text)
 
+        self.text = re.sub(fr'({NON_VOWELS_REGEX})вя', r'\g<1>ая', self.text)
+
         self.text = re.sub(fr'({VOWELS_REGEX})и', r'\g<1>н', self.text)
 
         self.text = re.sub(fr'({NON_VOWELS_REGEX})н({NON_VOWELS_REGEX})', r'\g<1>и\g<2>', self.text)
