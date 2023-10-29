@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "output/nenl1990-hocr/page-067.jpg"; bbox 0 0 900 1100; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 232 812 864 930">
+    <p class='ocr_par' id='par_1_1' lang='ynk' title="bbox 232 812 864 930">
+     <span class='ocr_line' id='line_1_1' title="bbox 308 812 555 840; baseline 0.024 -6; x_size 28.748917; x_descenders 5.7489176; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_1' title='bbox 308 812 479 838; x_wconf 73'><strong>Ненлюмкина</strong></span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 490 817 513 839; x_wconf 71'><strong>э.</strong></span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 528 817 555 840; x_wconf 83'><strong>Н.</strong></span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 232 841 864 878; baseline 0.022 -16; x_size 28; x_descenders 6; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_4' title='bbox 232 841 280 863; x_wconf 60'><strong>НГЛ</strong></span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 323 843 400 865; x_wconf 66'><strong>Евспэ</strong></span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 442 851 549 869; x_wconf 64'><strong>спасТья:</strong></span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 589 848 731 877; x_wconf 61'><strong>ӶСТнх:Ӈ.—-</strong></span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 740 851 864 878; x_wconf 66'><strong>Магэлагн</strong></span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 304 872 791 904; baseline 0.021 -10; x_size 27.748917; x_descenders 5.7489176; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_9' title='bbox 304 872 345 896; x_wconf 79'><strong>Кн.</strong></span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 361 879 450 900; x_wconf 60'><strong>Иэл-во,</strong></span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 467 875 589 899; x_wconf 69'><strong>!ЭЭО.—ОО</strong></span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 601 884 650 900; x_wconf 79'><strong>с.—</strong></span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 657 879 729 902; x_wconf 74'><strong>ТексТ</strong></span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 742 888 791 904; x_wconf 73'><strong>эск.</strong></span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 332 902 660 930; baseline 0.018 -6; x_size 29.01948; x_descenders 5.9285712; x_ascenders 6.590909">
+      <span class='ocrx_word' id='word_1_15' title='bbox 332 902 402 925; x_wconf 56'><strong>ЮЕЫ</strong></span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 420 904 660 930; x_wconf 59'><strong>Э—ЎЕЭ!—ОаО!—х</strong></span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 299 967 864 1041">
+    <p class='ocr_par' id='par_1_2' lang='ynk' title="bbox 299 967 864 1041">
+     <span class='ocr_line' id='line_1_5' title="bbox 324 967 864 996; baseline 0.02 -11; x_size 24; x_descenders 6; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_17' title='bbox 324 967 354 985; x_wconf 86'><strong>Ли</strong></span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 370 973 451 988; x_wconf 74'><strong>пяеские</strong></span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 468 975 528 989; x_wconf 83'><strong>сТнхн</strong></span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 547 973 619 996; x_wconf 66'><strong>порвой</strong></span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 637 976 768 994; x_wconf 77'><strong>эскимосской</strong></span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 789 982 864 996; x_wconf 74'><strong>поэТос-</strong></span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 300 996 863 1022; baseline 0.021 -14; x_size 25.5; x_descenders 6.5; x_ascenders 5.5">
+      <span class='ocrx_word' id='word_1_23' title='bbox 300 996 331 1010; x_wconf 91'><strong>сы.</strong></span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 366 997 434 1011; x_wconf 73'><strong>пювка</strong></span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 451 999 565 1016; x_wconf 71'><strong>посвпнеыа</strong></span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 582 997 677 1016; x_wconf 63'><strong>ОО-леТ»яю</strong></span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 693 998 816 1022; x_wconf 62'><strong>Пукопекого</strong></span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 832 1007 863 1020; x_wconf 79'><strong>ав-</strong></span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 299 1020 501 1041; baseline 0.02 -8; x_size 25.5; x_descenders 6.5; x_ascenders 5.5">
+      <span class='ocrx_word' id='word_1_29' title='bbox 299 1020 411 1035; x_wconf 79'><strong>Тоноиного</strong></span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 423 1022 501 1041; x_wconf 73'><strong>округа.</strong></span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 274 1074 456 1096">
+    <p class='ocr_par' id='par_1_3' lang='ynk' title="bbox 274 1074 456 1096">
+     <span class='ocr_line' id='line_1_8' title="bbox 274 1074 456 1096; baseline 0.027 -5; x_size 24.857143; x_descenders 6.2142859; x_ascenders 6.2142859">
+      <span class='ocrx_word' id='word_1_31' title='bbox 274 1074 456 1096; x_wconf 60'><strong>ИоНэООоО—Оэё</strong></span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
