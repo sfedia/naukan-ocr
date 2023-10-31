@@ -1,2 +1,2 @@
 # naukan-ocr
-Сreating a tool for optical recognition of texts in Naukan
+![alt text](https://github.com/sfedia/naukan-ocr/blob/main/docs/basic-structure.png?raw=true)
