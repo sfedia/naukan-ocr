@@ -30,9 +30,10 @@ RUN . "$NVM_DIR/nvm.sh" && nvm alias default v${NODE_VERSION}
 ENV PATH="/root/.nvm/versions/node/v${NODE_VERSION}/bin/:${PATH}"
 RUN node --version
 RUN npm --version
-RUN git clone https://github.com/eloops/hocr2pdf
-COPY hocr2pdf src/hocr2pdf
-RUN cd src/hocr2pdf && npm install -g
+
+COPY processors processors
+RUN cd /app/processors/PagesHocrsMerge/ && npm install --save-dev
+# RUN npm install -g
 
 WORKDIR /app
 
