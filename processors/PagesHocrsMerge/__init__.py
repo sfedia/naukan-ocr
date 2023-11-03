@@ -9,7 +9,7 @@ IMAGE_EXTENSIONS = ("jpg", "jpeg", "png")
 class PagesHocrsMerge:
     def __init__(self, hocr_input_dir, pages_input_dir, output_dir):
         self.hocr_input_dir = hocr_input_dir
-        self.pages_input_dir = hocr_input_dir
+        self.pages_input_dir = pages_input_dir
         self.output_dir = output_dir
 
     def get_hocr_files(self):
