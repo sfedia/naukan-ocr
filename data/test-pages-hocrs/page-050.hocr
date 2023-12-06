@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/app/data/test-pages-spl/page-050.jpg"; bbox 0 0 800 1100; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 205 69 365 114">
+    <p class='ocr_par' id='par_1_1' lang='ynk' title="bbox 205 69 365 114">
+     <span class='ocr_line' id='line_1_1' title="bbox 205 69 365 90; baseline -0.056 0; x_size 22.238094; x_descenders 5.2380953; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_1' title='bbox 205 69 214 85; x_wconf 59'><strong>Н</strong></span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 223 71 238 85; x_wconf 36'><strong>М</strong></span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 253 75 347 90; x_wconf 38'><strong>Ўпвмыо́ям</strong></span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 356 75 365 87; x_wconf 20'><strong>ух</strong></span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 205 98 261 114; baseline -0.071 -2; x_size 18.277779; x_descenders 4.2777781; x_ascenders 5.833333">
+      <span class='ocrx_word' id='word_1_5' title='bbox 205 98 235 114; x_wconf 55'><strong>,М‚</strong></span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 260 107 261 112; x_wconf 50'><strong>,</strong></span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 164 104 362 232">
+    <p class='ocr_par' id='par_1_2' lang='ynk' title="bbox 204 104 344 173">
+     <span class='ocr_line' id='line_1_3' title="bbox 306 104 340 115; baseline -0.088 0; x_size 27; x_descenders 7; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_7' title='bbox 306 104 340 115; x_wconf 22'><strong>.-«х</strong></span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 204 128 344 144; baseline -0.064 7; x_size 27; x_descenders 7; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_8' title='bbox 204 128 254 144; x_wconf 20'><strong>НЛӼ</strong></span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 311 134 344 144; x_wconf 42'><strong>ххх</strong></span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 204 157 273 173; baseline -0.101 0; x_size 35.090908; x_descenders 6; x_ascenders 13.090909">
+      <span class='ocrx_word' id='word_1_10' title='bbox 204 157 273 173; x_wconf 32'><strong>ыъ..ӷ,</strong></span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='ynk' title="bbox 164 192 362 232">
+     <span class='ocr_line' id='line_1_6' title="bbox 164 192 265 202; baseline -0.064 -1; x_size 27; x_descenders 7; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_11' title='bbox 164 192 222 202; x_wconf 51'><strong>.м.у‚</strong></span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 264 195 265 202; x_wconf 19'><strong>х</strong></span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 224 222 362 232; baseline -0.087 9; x_size 24; x_descenders 6; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_13' title='bbox 224 222 270 232; x_wconf 28'><strong>МКМ</strong></span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 343 222 362 232; x_wconf 46'><strong>м‚.</strong></span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

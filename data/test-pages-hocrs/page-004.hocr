@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/app/data/test-pages-spl/page-004.jpg"; bbox 0 0 800 1100; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 187 98 533 130">
+    <p class='ocr_par' id='par_1_1' lang='ynk' title="bbox 187 98 533 130">
+     <span class='ocr_line' id='line_1_1' title="bbox 187 98 533 130; baseline -0.014 0; x_size 36.365852; x_descenders 5.3658538; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_1' title='bbox 187 99 222 130; x_wconf 63'><strong>Э,</strong></span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 259 98 533 129; x_wconf 56'><strong>НОНАЮМКИНН</strong></span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 114 333 642 552">
+    <p class='ocr_par' id='par_1_2' lang='ynk' title="bbox 114 333 642 552">
+     <span class='ocr_line' id='line_1_2' title="bbox 125 333 642 434; baseline -0.012 -20; x_size 145; x_descenders 26.5; x_ascenders 39.5">
+      <span class='ocrx_word' id='word_1_3' title='bbox 125 333 580 434; x_wconf 49'><strong>ыпо́нлпям</strong></span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 632 363 642 374; x_wconf 49'><strong>»</strong></span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 114 440 606 552; baseline -0.01 -25; x_size 145; x_descenders 26.5; x_ascenders 39.5">
+      <span class='ocrx_word' id='word_1_5' title='bbox 114 440 606 552; x_wconf 52'><strong>ӇЫЯННТӇЫ</strong></span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

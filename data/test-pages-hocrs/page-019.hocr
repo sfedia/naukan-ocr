@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/app/data/test-pages-spl/page-019.jpg"; bbox 0 0 900 1100; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 320 160 721 716">
+    <p class='ocr_par' id='par_1_1' lang='ynk' title="bbox 324 160 596 180">
+     <span class='ocr_line' id='line_1_1' title="bbox 324 160 596 180; baseline -0.011 -2; x_size 22; x_descenders 4; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_1' title='bbox 324 160 433 178; x_wconf 76'><strong>Пакиакын</strong></span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 447 162 596 180; x_wconf 77'><strong>аныӽлъуквӄо,</strong></span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='ynk' title="bbox 320 190 508 211">
+     <span class='ocr_line' id='line_1_2' title="bbox 320 190 508 211; baseline -0.016 -3; x_size 23; x_descenders 5; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_3' title='bbox 320 190 390 211; x_wconf 85'><strong>Лъиӄа</strong></span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 404 193 508 211; x_wconf 84'><strong>уӄиглило,</strong></span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='ynk' title="bbox 322 220 709 240">
+     <span class='ocr_line' id='line_1_3' title="bbox 322 220 709 240; baseline -0.01 -4; x_size 24.002575; x_descenders 5.5952382; x_ascenders 5.7352943">
+      <span class='ocrx_word' id='word_1_5' title='bbox 322 220 429 240; x_wconf 84'><strong>Силъамун</strong></span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 443 222 564 239; x_wconf 83'><strong>ӄергысакун</strong></span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 579 220 709 237; x_wconf 77'><strong>ысмиТаӄо—</strong></span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='ynk' title="bbox 321 249 562 271">
+     <span class='ocr_line' id='line_1_4' title="bbox 321 249 562 271; baseline -0.012 -5; x_size 20; x_descenders 3; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_8' title='bbox 321 249 413 271; x_wconf 75'><strong>...Апума,</strong></span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 426 251 562 264; x_wconf 78'><strong>апыпихсима.</strong></span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='ynk' title="bbox 322 279 576 300">
+     <span class='ocr_line' id='line_1_5' title="bbox 322 279 576 300; baseline -0.012 -4; x_size 24.002575; x_descenders 5.5952382; x_ascenders 5.7352943">
+      <span class='ocrx_word' id='word_1_10' title='bbox 322 279 446 300; x_wconf 70'><strong>УӷумэиӷиТа</strong></span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 461 281 576 298; x_wconf 75'><strong>ӄанирагвӄ,</strong></span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='ynk' title="bbox 321 308 611 329">
+     <span class='ocr_line' id='line_1_6' title="bbox 321 308 611 329; baseline -0.007 -5; x_size 21; x_descenders 5; x_ascenders 4">
+      <span class='ocrx_word' id='word_1_12' title='bbox 321 308 379 325; x_wconf 75'><strong>Апым</strong></span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 395 311 443 329; x_wconf 76'><strong>нуна</strong></span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 457 310 611 328; x_wconf 74'><strong>унисиманӷиТа.</strong></span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='ynk' title="bbox 321 337 637 357">
+     <span class='ocr_line' id='line_1_7' title="bbox 321 337 637 357; baseline -0.013 -2; x_size 24.002575; x_descenders 5.5952382; x_ascenders 5.7352943">
+      <span class='ocrx_word' id='word_1_15' title='bbox 321 337 373 355; x_wconf 73'><strong>Сэли</strong></span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 386 341 508 357; x_wconf 73'><strong>апылъаӷым</strong></span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 523 339 637 356; x_wconf 66'><strong>ылъиӄаӄсп-</strong></span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='ynk' title="bbox 321 367 614 388">
+     <span class='ocr_line' id='line_1_8' title="bbox 321 367 614 388; baseline -0.01 -4; x_size 24.002575; x_descenders 5.5952382; x_ascenders 5.7352943">
+      <span class='ocrx_word' id='word_1_18' title='bbox 321 367 410 388; x_wconf 81'><strong>СивулиТ</strong></span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 423 370 520 383; x_wconf 69'><strong>пыюхТыТ</strong></span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 534 369 614 387; x_wconf 75'><strong>ТумӈиТ.</strong></span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_9' lang='ynk' title="bbox 321 396 647 416">
+     <span class='ocr_line' id='line_1_9' title="bbox 321 396 647 416; baseline -0.012 -2; x_size 24.002575; x_descenders 5.5952382; x_ascenders 5.7352943">
+      <span class='ocrx_word' id='word_1_21' title='bbox 321 396 392 414; x_wconf 70'><strong>Апыам</strong></span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 406 400 461 413; x_wconf 80'><strong>свли:</strong></span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 476 400 536 416; x_wconf 74'><strong>ӄаник</strong></span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 550 398 647 416; x_wconf 75'><strong>эхТулуни</strong></span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_10' lang='ynk' title="bbox 323 425 627 448">
+     <span class='ocr_line' id='line_1_10' title="bbox 323 425 627 448; baseline -0.01 -5; x_size 24.002575; x_descenders 5.5952382; x_ascenders 5.7352943">
+      <span class='ocrx_word' id='word_1_25' title='bbox 323 425 418 448; x_wconf 77'><strong>ИхТаӄуӄ,</strong></span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 431 429 522 447; x_wconf 74'><strong>ихТуӄаӃ,</strong></span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 536 428 627 446; x_wconf 73'><strong>ихТуӄаӄ.</strong></span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_11' lang='ynk' title="bbox 323 452 710 478">
+     <span class='ocr_line' id='line_1_11' title="bbox 323 452 710 478; baseline -0.01 -5; x_size 24; x_descenders 6; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_28' title='bbox 323 456 453 478; x_wconf 81'><strong>НиулаӷуТын</strong></span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 467 453 616 475; x_wconf 57'><strong>и́Ти́Ӷьйлӷе́гын</strong></span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 631 452 710 475; x_wconf 76'><strong>ило́нун,</strong></span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_12' lang='ynk' title="bbox 322 485 721 506">
+     <span class='ocr_line' id='line_1_12' title="bbox 322 485 721 506; baseline -0.01 -3; x_size 24.002575; x_descenders 5.5952382; x_ascenders 5.7352943">
+      <span class='ocrx_word' id='word_1_31' title='bbox 322 485 496 506; x_wconf 71'><strong>Апыпагнинӄуӄ,</strong></span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 509 486 721 504; x_wconf 74'><strong>иынлъыпвгниТэӄуӄ.</strong></span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_13' lang='ynk' title="bbox 322 515 642 537">
+     <span class='ocr_line' id='line_1_13' title="bbox 322 515 642 537; baseline -0.009 -4; x_size 24.002575; x_descenders 5.5952382; x_ascenders 5.7352943">
+      <span class='ocrx_word' id='word_1_33' title='bbox 322 515 395 533; x_wconf 77'><strong>Ынквм</strong></span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 408 518 538 537; x_wconf 72'><strong>уТыӽпахлъо</strong></span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 551 517 642 535; x_wconf 81'><strong>пилӷеӈа:</strong></span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_14' lang='ynk' title="bbox 320 544 622 567">
+     <span class='ocr_line' id='line_1_14' title="bbox 320 544 622 567; baseline -0.01 -4; x_size 23; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_36' title='bbox 320 554 342 557; x_wconf 96'><strong>—</strong></span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 356 544 483 567; x_wconf 76'><strong>УӷуманӷиТа</strong></span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 496 548 622 566; x_wconf 81'><strong>ӄвнирагаӄ...</strong></span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_15' lang='ynk' title="bbox 323 575 595 596">
+     <span class='ocr_line' id='line_1_15' title="bbox 323 575 595 596; baseline -0.007 -4; x_size 21; x_descenders 4; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_39' title='bbox 323 575 432 592; x_wconf 79'><strong>Пакмакын</strong></span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 446 577 595 596; x_wconf 78'><strong>аныӽлъукаӄо,</strong></span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_16' lang='ynk' title="bbox 322 605 604 627">
+     <span class='ocr_line' id='line_1_16' title="bbox 322 605 604 627; baseline -0.011 -5; x_size 21; x_descenders 4; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_41' title='bbox 322 605 410 627; x_wconf 75'><strong>Ынӄвӄо‚</strong></span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 423 608 507 626; x_wconf 79'><strong>ынӄаӄо,</strong></span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 520 607 604 624; x_wconf 82'><strong>ыиӄвӄо.</strong></span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_17' lang='ynk' title="bbox 320 635 635 684">
+     <span class='ocr_line' id='line_1_17' title="bbox 320 635 635 655; baseline -0.01 -3; x_size 21; x_descenders 4; x_ascenders 4">
+      <span class='ocrx_word' id='word_1_44' title='bbox 320 635 400 652; x_wconf 77'><strong>Апы-аи</strong></span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 415 637 514 655; x_wconf 79'><strong>ӄергысам</strong></span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 528 637 635 655; x_wconf 74'><strong>амаТӈвни,</strong></span>
+     </span>
+     <span class='ocr_line' id='line_1_18' title="bbox 463 663 564 684; baseline 0 -4; x_size 21; x_descenders 4; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_47' title='bbox 463 663 564 684; x_wconf 73'><strong>Твйӄакма</strong></span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_18' lang='ynk' title="bbox 324 694 640 716">
+     <span class='ocr_line' id='line_1_19' title="bbox 324 694 640 716; baseline -0.009 -4; x_size 23; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_48' title='bbox 324 694 419 716; x_wconf 53'><strong>ИхТаюӄ,</strong></span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 432 697 524 715; x_wconf 76'><strong>ихТаӄуӄ,</strong></span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 537 696 640 714; x_wconf 60'><strong>ихТаӄуӄ.,.</strong></span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

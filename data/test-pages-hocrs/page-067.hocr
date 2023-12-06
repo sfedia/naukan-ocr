@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/app/data/test-pages-spl/page-067.jpg"; bbox 0 0 900 1100; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 232 813 864 930">
+    <p class='ocr_par' id='par_1_1' lang='ynk' title="bbox 232 813 864 930">
+     <span class='ocr_line' id='line_1_1' title="bbox 308 813 555 840; baseline 0.024 -6; x_size 27.7223; x_descenders 5.7223001; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_1' title='bbox 308 813 478 838; x_wconf 77'><strong>Нснлюмкина</strong></span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 491 817 513 839; x_wconf 70'><strong>Э.</strong></span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 528 818 555 840; x_wconf 87'><strong>Н‚</strong></span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 232 841 864 878; baseline 0.021 -16; x_size 28; x_descenders 7; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_4' title='bbox 232 841 280 863; x_wconf 65'><strong>НГЛ</strong></span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 323 843 399 865; x_wconf 70'><strong>Еосна</strong></span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 442 851 549 868; x_wconf 59'><strong>съхэсТья:</strong></span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 590 848 731 877; x_wconf 61'><strong>ӶСТхяхвӇ.—</strong></span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 740 851 864 878; x_wconf 56'><strong>Магапэю</strong></span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 304 872 790 904; baseline 0.021 -11; x_size 27.7223; x_descenders 5.7223001; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_9' title='bbox 304 872 345 896; x_wconf 80'><strong>Кн.</strong></span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 361 879 449 900; x_wconf 56'><strong>нэп-во,</strong></span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 467 875 588 899; x_wconf 67'><strong>ТЭОО.—ОО</strong></span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 601 884 650 900; x_wconf 76'><strong>С.—</strong></span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 658 879 729 902; x_wconf 71'><strong>ТексТ</strong></span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 742 888 790 904; x_wconf 78'><strong>эск.</strong></span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 333 902 660 930; baseline 0.018 -6; x_size 28.5; x_descenders 5.9130435; x_ascenders 7.0869565">
+      <span class='ocrx_word' id='word_1_15' title='bbox 333 902 402 925; x_wconf 58'><strong>ЛЕЕЫ</strong></span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 420 904 660 930; x_wconf 59'><strong>ё—ТЕЭ!—ОЮ!-х</strong></span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 299 967 864 1041">
+    <p class='ocr_par' id='par_1_2' lang='ynk' title="bbox 299 967 864 1041">
+     <span class='ocr_line' id='line_1_5' title="bbox 324 967 864 996; baseline 0.02 -11; x_size 21.888889; x_descenders 5; x_ascenders 4.8888888">
+      <span class='ocrx_word' id='word_1_17' title='bbox 324 967 450 990; x_wconf 72'><strong>Лирюаеские</strong></span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 468 976 527 989; x_wconf 73'><strong>сТнхн</strong></span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 547 974 619 995; x_wconf 67'><strong>первой</strong></span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 638 976 768 994; x_wconf 73'><strong>эскнмосской</strong></span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 789 982 864 996; x_wconf 63'><strong>поэТос.</strong></span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 300 991 863 1021; baseline 0.02 -12; x_size 20; x_descenders 3; x_ascenders 4">
+      <span class='ocrx_word' id='word_1_22' title='bbox 300 996 331 1009; x_wconf 84'><strong>сы.</strong></span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 348 991 434 1011; x_wconf 71'><strong>Книнска</strong></span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 451 999 565 1016; x_wconf 59'><strong>посвянлонэ</strong></span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 582 997 677 1016; x_wconf 60'><strong>ОО-лепно</strong></span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 693 999 816 1021; x_wconf 58'><strong>ИукоТского</strong></span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 832 1007 863 1020; x_wconf 76'><strong>ав-</strong></span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 299 1020 501 1041; baseline 0.02 -8; x_size 21.888889; x_descenders 5; x_ascenders 4.8888888">
+      <span class='ocrx_word' id='word_1_28' title='bbox 299 1020 410 1035; x_wconf 80'><strong>Тономного</strong></span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 423 1023 501 1041; x_wconf 72'><strong>округа.</strong></span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 275 1074 456 1095">
+    <p class='ocr_par' id='par_1_3' lang='ynk' title="bbox 275 1074 456 1095">
+     <span class='ocr_line' id='line_1_8' title="bbox 275 1074 456 1095; baseline 0.017 -3; x_size 23.809525; x_descenders 5.9523811; x_ascenders 5.9523811">
+      <span class='ocrx_word' id='word_1_30' title='bbox 275 1074 442 1095; x_wconf 58'><strong>ИОЕТэОООО—Оэ</strong></span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 446 1078 456 1095; x_wconf 65'><strong>Е</strong></span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
