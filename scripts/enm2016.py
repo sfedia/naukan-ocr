@@ -14,11 +14,15 @@ from processors.PdfToJpgPages import PdfToJpgPages
 from processors.ImagesToBoxes import ImagesToBoxes
 from processors.PinModel import PinModel
 
-PinModel("ynk-nenl1985-v3.1", "train/nenl1985/ynk.traineddata", "ynk").pin()
-conv = ImagesToBoxes(
-    "/app/data/enm2016-pages",
-    "/app/data/enm2016-pages-boxes",
-    extension="jpg",
-    img_name_prefix="ynk.enm2016"
-)
-conv.convert()
+PinModel("ynk-enm2016-v1", "train/enm2016/ynk.traineddata", "ynk").pin()
+# conv = ImagesToBoxes(
+#     "/app/data/enm2016-pages",
+#     "/app/data/enm2016-pages-boxes",
+#     extension="jpg",
+#     img_name_prefix="ynk.enm2016"
+# )
+# conv.convert()
+
+from processors.ImagesToTexts import ImagesToTexts
+
+ImagesToTexts("/app/data/enm2016-pages", "/app/data/enm2016-texts", extension="jpg", lang="ynk").convert()
