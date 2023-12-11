@@ -10,8 +10,8 @@
    <div class="ocr_carea" id="block_1_1" title="bbox 312 34 658 58">
     <p class="ocr_par" id="par_1_1" lang="ynk" title="bbox 312 34 658 58">
      <span class="ocr_line" id="line_1_1" title="bbox 312 34 658 58; baseline -0.006 0; x_size 30.066668; x_descenders 7.5166669; x_ascenders 7.5166669">
-      <span class="ocrx_word" id="word_1_1" title="bbox 312 35 513 58; x_wconf 88"><strong>МАРГАРИТА</strong></span>
-      <span class="ocrx_word" id="word_1_2" title="bbox 523 34 658 57; x_wconf 88"><strong>ГЛУХИХ</strong></span>
+      <span class="ocrx_word" id="word_1_1" title="bbox 312 35 513 58; x_wconf 88"><strong>Маргарита</strong></span>
+      <span class="ocrx_word" id="word_1_2" title="bbox 523 34 658 57; x_wconf 88"><strong>глухих</strong></span>
      </span>
     </p>
    </div>
@@ -58,7 +58,7 @@
       <span class="ocrx_word" id="word_1_32" title="bbox 200 273 326 297; x_wconf 68"><strong>кысиґута</strong></span>
       <span class="ocrx_word" id="word_1_33" title="bbox 334 272 507 292; x_wconf 81"><strong>пинилґеның.</strong></span>
       <span class="ocrx_word" id="word_1_34" title="bbox 517 266 679 295; x_wconf 70"><strong>Сиґлыґоқут</strong></span>
-      <span class="ocrx_word" id="word_1_35" title="bbox 686 272 785 288; x_wconf 71"><strong>Тымкат</strong></span>
+      <span class="ocrx_word" id="word_1_35" title="bbox 686 272 785 288; x_wconf 71"><strong>тымкат</strong></span>
       <span class="ocrx_word" id="word_1_36" title="bbox 793 264 931 289; x_wconf 72"><strong>санақйъеґ</strong></span>
      </span>
      <span class="ocr_line" id="line_1_7" title="bbox 43 307 931 337; baseline -0.006 -7; x_size 30.885416; x_descenders 7.3359375; x_ascenders 7.1666665">
@@ -117,12 +117,12 @@
       <span class="ocrx_word" id="word_1_71" title="bbox 277 545 478 569; x_wconf 71"><strong>қанґутыкақақа</strong></span>
       <span class="ocrx_word" id="word_1_72" title="bbox 491 545 591 568; x_wconf 78"><strong>нунани</strong></span>
       <span class="ocrx_word" id="word_1_73" title="bbox 606 542 813 561; x_wconf 65"><strong>санавґананиґет</strong></span>
-      <span class="ocrx_word" id="word_1_74" title="bbox 828 542 931 559; x_wconf 65"><strong>Тымкат.</strong></span>
+      <span class="ocrx_word" id="word_1_74" title="bbox 828 542 931 559; x_wconf 65"><strong>тымкат.</strong></span>
      </span>
      <span class="ocr_line" id="line_1_14" title="bbox 44 581 623 609; baseline -0.007 -6; x_size 29; x_descenders 7; x_ascenders 6">
       <span class="ocrx_word" id="word_1_75" title="bbox 44 581 138 603; x_wconf 84"><strong>Ынкам</strong></span>
       <span class="ocrx_word" id="word_1_76" title="bbox 148 586 222 609; x_wconf 80"><strong>углақ</strong></span>
-      <span class="ocrx_word" id="word_1_77" title="bbox 230 585 333 604; x_wconf 75"><strong>Тымкақ</strong></span>
+      <span class="ocrx_word" id="word_1_77" title="bbox 230 585 333 604; x_wconf 75"><strong>тымкақ</strong></span>
       <span class="ocrx_word" id="word_1_78" title="bbox 341 585 461 604; x_wconf 62"><strong>сагмақаг</strong></span>
       <span class="ocrx_word" id="word_1_79" title="bbox 470 583 623 607; x_wconf 80"><strong>аґуҳпынан.</strong></span>
      </span>
@@ -141,7 +141,7 @@
      <span class="ocr_line" id="line_1_16" title="bbox 45 653 934 683; baseline -0.008 -2; x_size 30.885416; x_descenders 7.3359375; x_ascenders 7.1666665">
       <span class="ocrx_word" id="word_1_87" title="bbox 45 663 194 683; x_wconf 79"><strong>пималґеңа.</strong></span>
       <span class="ocrx_word" id="word_1_88" title="bbox 204 657 359 683; x_wconf 84"><strong>Ысҳаманка</strong></span>
-      <span class="ocrx_word" id="word_1_89" title="bbox 366 662 508 681; x_wconf 72"><strong>Тьхмканың</strong></span>
+      <span class="ocrx_word" id="word_1_89" title="bbox 366 662 508 681; x_wconf 72"><strong>тьхмканың</strong></span>
       <span class="ocrx_word" id="word_1_90" title="bbox 516 661 660 680; x_wconf 74"><strong>санакыңат</strong></span>
       <span class="ocrx_word" id="word_1_91" title="bbox 668 660 769 679; x_wconf 74"><strong>миңқат.</strong></span>
       <span class="ocrx_word" id="word_1_92" title="bbox 779 653 934 682; x_wconf 71"><strong>Пинитупик</strong></span>
@@ -155,14 +155,14 @@
       <span class="ocrx_word" id="word_1_98" title="bbox 770 698 933 721; x_wconf 65"><strong>апңаҳситуш</strong></span>
      </span>
      <span class="ocr_line" id="line_1_18" title="bbox 46 736 936 764; baseline -0.007 -5; x_size 30.885416; x_descenders 7.3359375; x_ascenders 7.1666665">
-      <span class="ocrx_word" id="word_1_99" title="bbox 46 737 134 759; x_wconf 73"><strong>Натын</strong></span>
-      <span class="ocrx_word" id="word_1_100" title="bbox 168 742 259 758; x_wconf 64"><strong>Тагани</strong></span>
+      <span class="ocrx_word" id="word_1_99" title="bbox 46 737 134 759; x_wconf 73"><strong>натын</strong></span>
+      <span class="ocrx_word" id="word_1_100" title="bbox 168 742 259 758; x_wconf 64"><strong>тагани</strong></span>
       <span class="ocrx_word" id="word_1_101" title="bbox 294 739 538 764; x_wconf 87"><strong>анлъунґилңуґның</strong></span>
       <span class="ocrx_word" id="word_1_102" title="bbox 573 739 671 762; x_wconf 84"><strong>нунени</strong></span>
       <span class="ocrx_word" id="word_1_103" title="bbox 706 736 936 760; x_wconf 81"><strong>санавґавиңқақук</strong></span>
      </span>
      <span class="ocr_line" id="line_1_19" title="bbox 45 775 935 800; baseline -0.008 -2; x_size 30.885416; x_descenders 7.3359375; x_ascenders 7.1666665">
-      <span class="ocrx_word" id="word_1_104" title="bbox 45 782 194 799; x_wconf 63"><strong>Тымканың.</strong></span>
+      <span class="ocrx_word" id="word_1_104" title="bbox 45 782 194 799; x_wconf 63"><strong>тымканың.</strong></span>
       <span class="ocrx_word" id="word_1_105" title="bbox 227 775 336 799; x_wconf 87"><strong>Ныҳсам</strong></span>
       <span class="ocrx_word" id="word_1_106" title="bbox 366 780 508 797; x_wconf 79"><strong>тымкеның</strong></span>
       <span class="ocrx_word" id="word_1_107" title="bbox 538 778 673 800; x_wconf 62"><strong>санатақут</strong></span>
@@ -173,14 +173,14 @@
       <span class="ocrx_word" id="word_1_110" title="bbox 47 820 236 843; x_wconf 67"><strong>атыклъугның.</strong></span>
       <span class="ocrx_word" id="word_1_111" title="bbox 247 813 409 835; x_wconf 86"><strong>Акисаґвини</strong></span>
       <span class="ocrx_word" id="word_1_112" title="bbox 419 812 525 839; x_wconf 84"><strong>даниям</strong></span>
-      <span class="ocrx_word" id="word_1_113" title="bbox 533 817 643 839; x_wconf 76"><strong>Тамакут</strong></span>
+      <span class="ocrx_word" id="word_1_113" title="bbox 533 817 643 839; x_wconf 76"><strong>тамакут</strong></span>
       <span class="ocrx_word" id="word_1_114" title="bbox 651 816 784 838; x_wconf 53"><strong>а-ґыклъу—г,</strong></span>
       <span class="ocrx_word" id="word_1_115" title="bbox 793 815 870 831; x_wconf 72"><strong>гатыт</strong></span>
       <span class="ocrx_word" id="word_1_116" title="bbox 878 815 935 831; x_wconf 77"><strong>аки-</strong></span>
      </span>
      <span class="ocr_line" id="line_1_21" title="bbox 46 858 327 882; baseline -0.004 -7; x_size 30.885416; x_descenders 7.3359375; x_ascenders 7.1666665">
-      <span class="ocrx_word" id="word_1_117" title="bbox 46 859 208 882; x_wconf 63"><strong>Тупихлъуки</strong></span>
-      <span class="ocrx_word" id="word_1_118" title="bbox 217 858 327 881; x_wconf 72"><strong>Тунақег.</strong></span>
+      <span class="ocrx_word" id="word_1_117" title="bbox 46 859 208 882; x_wconf 63"><strong>тупихлъуки</strong></span>
+      <span class="ocrx_word" id="word_1_118" title="bbox 217 858 327 881; x_wconf 72"><strong>тунақег.</strong></span>
      </span>
     </p>
 
@@ -196,7 +196,7 @@
      <span class="ocr_line" id="line_1_23" title="bbox 48 924 936 959; baseline -0.008 -6; x_size 29; x_descenders 7; x_ascenders 6">
       <span class="ocrx_word" id="word_1_125" title="bbox 48 924 139 955; x_wconf 80"><strong>йықай</strong></span>
       <span class="ocrx_word" id="word_1_126" title="bbox 203 930 295 959; x_wconf 87"><strong>гўэсам</strong></span>
-      <span class="ocrx_word" id="word_1_127" title="bbox 360 934 596 957; x_wconf 70"><strong>Тунивилґоқьякан</strong></span>
+      <span class="ocrx_word" id="word_1_127" title="bbox 360 934 596 957; x_wconf 70"><strong>тунивилґоқьякан</strong></span>
       <span class="ocrx_word" id="word_1_128" title="bbox 661 932 802 951; x_wconf 75"><strong>миңқаның</strong></span>
       <span class="ocrx_word" id="word_1_129" title="bbox 867 930 936 947; x_wconf 71"><strong>аґнаг</strong></span>
      </span>
@@ -256,7 +256,7 @@
     <p class="ocr_par" id="par_1_8" lang="ynk" title="bbox 95 1240 422 1264">
      <span class="ocr_line" id="line_1_31" title="bbox 95 1240 422 1264; baseline -0.009 0; x_size 30.612303; x_descenders 7.6123033; x_ascenders 6">
       <span class="ocrx_word" id="word_1_164" title="bbox 95 1254 112 1256; x_wconf 88"><strong>—</strong></span>
-      <span class="ocrx_word" id="word_1_165" title="bbox 121 1240 225 1263; x_wconf 53"><strong>Накын9</strong></span>
+      <span class="ocrx_word" id="word_1_165" title="bbox 121 1240 225 1263; x_wconf 53"><strong>накын9</strong></span>
       <span class="ocrx_word" id="word_1_166" title="bbox 234 1253 251 1256; x_wconf 91"><strong>—</strong></span>
       <span class="ocrx_word" id="word_1_167" title="bbox 260 1245 422 1264; x_wconf 69"><strong>ап1ъ1такақа.</strong></span>
      </span>
