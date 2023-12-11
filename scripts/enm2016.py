@@ -35,13 +35,10 @@ from processors.RuleBasedTextFormatter import RuleBasedTextFormatter, Token
 
 
 def format_token(token, first_in_sentence=False):
-    # uppercase_ratio = sum([(1 if char.isupper() else 0) for char in token]) / len(token)
-    print(token, first_in_sentence)
     if first_in_sentence:
         token = "".join([(char if e == 0 else char.lower()) for e, char in enumerate(token)])
     else:
         token = token.lower()
-    print(token)
 
     token = re.sub(r'ьп', 'ыт', token)
     token = re.sub(r'ь1', 'ы', token)
@@ -62,23 +59,23 @@ RuleBasedTextFormatter("/app/data/enm2016-texts", "/app/data/enm2016-texts-fmt")
     FToken
 )
 
-# from processors.RuleBasedHocrFormatter import RuleBasedHocrFormatter
+from processors.RuleBasedHocrFormatter import RuleBasedHocrFormatter
 
-# class Enm2016_RuleBasedHocrFormatter(RuleBasedHocrFormatter):
-#     def __init__(self, *args, **kwargs):
-#         super().__init__(*args, **kwargs)
+class Enm2016_RuleBasedHocrFormatter(RuleBasedHocrFormatter):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
     
-#     def process_token(self, token, internal_index, line_index, punct_distance):
-#         return format_token(token, first_in_sentence=(punct_distance == 0))
+    def process_token(self, token, internal_index, line_index, punct_distance):
+        return format_token(token, first_in_sentence=(punct_distance == 0))
 
 
-# Enm2016_RuleBasedHocrFormatter("/app/data/enm2016-hocrs", "/app/data/enm2016-hocrs-fmt").format()
+Enm2016_RuleBasedHocrFormatter("/app/data/enm2016-hocrs", "/app/data/enm2016-hocrs-fmt").format()
 
-# from processors.PagesHocrsMerge import PagesHocrsMerge
+from processors.PagesHocrsMerge import PagesHocrsMerge
 
-# merger = PagesHocrsMerge(
-#     hocr_input_dir="/app/data/enm2016-hocrs-fmt",
-#     pages_input_dir="/app/data/enm2016-pages",
-#     output_dir="/app/data/enm2016-hocr-merged"
-# )
-# merger.merge()
+merger = PagesHocrsMerge(
+    hocr_input_dir="/app/data/enm2016-hocrs-fmt",
+    pages_input_dir="/app/data/enm2016-pages",
+    output_dir="/app/data/enm2016-hocr-merged"
+)
+merger.merge()
