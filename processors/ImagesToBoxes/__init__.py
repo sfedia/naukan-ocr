@@ -10,6 +10,9 @@ class ImagesToBoxes:
         self.img_name_prefix = img_name_prefix
 
     def convert(self):
+        for dirname in (self.input_dir, self.output_dir):
+            if not os.path.exists(dirname):
+                os.makedirs(dirname)
         os.chdir(self.input_dir)
         pics = [fn for fn in os.listdir(self.input_dir) if fn.endswith(f".{self.extension}")]
         pics = sorted(pics)

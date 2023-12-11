@@ -45,17 +45,21 @@ def format_contents(cnt: str, token_model: Token) -> str:
 
 
 class RuleBasedTextFormatter:
-    def __init__(self, input_dir):
+    def __init__(self, input_dir, output_dir):
         self.input_dir = input_dir
+        self.output_dir = output_dir
 
     def format(self, token_model: Token):
-        os.chdir(self.input_dir)
-        files = os.listdir(".")
+        for dirname in (self.input_dir, self.output_dir):
+            if not os.path.exists(dirname):
+                os.makedirs(dirname)
+        # os.chdir(self.input_dir)
+        files = os.listdir(self.input_dir)
         for fn in files:
             if not fn.endswith(".txt"):
                 continue
-            contents = open(fn, "r", encoding="utf-8").read()
-            with open(fn, "w", encoding="utf-8") as formatted:
+            contents = open(os.path.join(self.input_dir, fn), "r", encoding="utf-8").read()
+            with open(os.path.join(self.output_dir, fn), "w", encoding="utf-8") as formatted:
                 formatted.write(format_contents(contents, token_model))
                 formatted.close()
             print(f"Formatted {fn}")

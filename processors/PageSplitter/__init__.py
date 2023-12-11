@@ -14,6 +14,9 @@ class PageSplitter:
         self.top_mrg2 = top_mrg2
 
     def split(self):
+        for dirname in (self.input_dir, self.output_dir):
+            if not os.path.exists(dirname):
+                os.makedirs(dirname)
         pics = [fn for fn in os.listdir(self.input_dir) if fn.endswith(".jpg")]
         pics = list(sorted(pics, key=lambda fn: int(fn.split(".")[-2])))
         i = 1

@@ -13,6 +13,9 @@ class PagesHocrsMerge:
         self.output_dir = output_dir
 
     def get_hocr_files(self):
+        for dirname in (self.output_dir,):
+            if not os.path.exists(dirname):
+                os.makedirs(dirname)
         hocrs = {}
         for fn in os.listdir(self.hocr_input_dir):
             if not fn.endswith(".hocr"):
