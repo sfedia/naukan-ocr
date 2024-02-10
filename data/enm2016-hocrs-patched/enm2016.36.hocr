@@ -1,0 +1,56 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  </meta>
+  <meta name="ocr-system" content="tesseract 4.1.1"></meta>
+  <meta name="ocr-capabilities" content="ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf"></meta>
+ </head>
+ <body>
+  <div class="ocr_page" id="page_1" title='image "/app/data/enm2016-pages/enm2016.36.jpg"; bbox 0 0 979 1389; ppageno 0'>
+   <div class="ocr_carea" id="block_1_1" title="bbox 51 36 940 177">
+    <p class="ocr_par" id="par_1_1" lang="ynk" title="bbox 53 36 940 100">
+     <span class="ocr_line" id="line_1_1" title="bbox 53 36 940 68; baseline 0.012 -17; x_size 30.75; x_descenders 7.5; x_ascenders 7.75">
+      <span class="ocrx_word" id="word_1_1" title="bbox 53 36 114 58; x_wconf 85"><strong>кулъ</strong></span>
+      <span class="ocrx_word" id="word_1_2" title="bbox 123 37 372 61; x_wconf 83"><strong>наньякыраґаґлуни</strong></span>
+      <span class="ocrx_word" id="word_1_3" title="bbox 381 40 554 60; x_wconf 72"><strong>лъыңаҳталґе</strong></span>
+      <span class="ocrx_word" id="word_1_4" title="bbox 562 42 672 59; x_wconf 74"><strong>тагавык</strong></span>
+      <span class="ocrx_word" id="word_1_5" title="bbox 680 44 795 61; x_wconf 86"><strong>анпыхса</strong></span>
+      <span class="ocrx_word" id="word_1_6" title="bbox 803 45 887 68; x_wconf 75"><strong>атуты.</strong></span>
+      <span class="ocrx_word" id="word_1_7" title="bbox 897 40 940 62; x_wconf 89"><strong>Та-</strong></span>
+     </span>
+     <span class="ocr_line" id="line_1_2" title="bbox 53 75 398 100; baseline 0.012 -10; x_size 30.75; x_descenders 7.5; x_ascenders 7.75">
+      <span class="ocrx_word" id="word_1_8" title="bbox 53 75 132 90; x_wconf 79"><strong>гавык</strong></span>
+      <span class="ocrx_word" id="word_1_9" title="bbox 141 76 201 95; x_wconf 84"><strong>саяқ</strong></span>
+      <span class="ocrx_word" id="word_1_10" title="bbox 209 77 398 100; x_wconf 69"><strong>утуқинаґутуқ.</strong></span>
+     </span>
+    </p>
+
+    <p class="ocr_par" id="par_1_2" lang="ynk" title="bbox 51 107 940 177">
+     <span class="ocr_line" id="line_1_3" title="bbox 98 107 940 143; baseline 0.013 -14; x_size 30.75; x_descenders 7.5; x_ascenders 7.75">
+      <span class="ocrx_word" id="word_1_11" title="bbox 98 107 211 130; x_wconf 83"><strong>Тагавык</strong></span>
+      <span class="ocrx_word" id="word_1_12" title="bbox 225 115 460 140; x_wconf 77"><strong>ыглыҳтақлъықуқ</strong></span>
+      <span class="ocrx_word" id="word_1_13" title="bbox 475 118 586 140; x_wconf 85"><strong>қонпың,</strong></span>
+      <span class="ocrx_word" id="word_1_14" title="bbox 602 120 682 140; x_wconf 85"><strong>лъиқа</strong></span>
+      <span class="ocrx_word" id="word_1_15" title="bbox 697 121 744 143; x_wconf 86"><strong>уна</strong></span>
+      <span class="ocrx_word" id="word_1_16" title="bbox 760 122 845 143; x_wconf 63"><strong>қилак,</strong></span>
+      <span class="ocrx_word" id="word_1_17" title="bbox 860 123 940 143; x_wconf 86"><strong>лъиқа</strong></span>
+     </span>
+     <span class="ocr_line" id="line_1_4" title="bbox 51 152 394 177; baseline 0.012 -10; x_size 30.75; x_descenders 7.5; x_ascenders 7.75">
+      <span class="ocrx_word" id="word_1_18" title="bbox 51 152 99 174; x_wconf 84"><strong>уна</strong></span>
+      <span class="ocrx_word" id="word_1_19" title="bbox 108 152 167 173; x_wconf 89"><strong>апы,</strong></span>
+      <span class="ocrx_word" id="word_1_20" title="bbox 176 154 256 173; x_wconf 90"><strong>лъиқа</strong></span>
+      <span class="ocrx_word" id="word_1_21" title="bbox 265 154 312 177; x_wconf 89"><strong>уна</strong></span>
+      <span class="ocrx_word" id="word_1_22" title="bbox 322 155 394 175; x_wconf 86"><strong>имақ.</strong></span>
+     </span>
+    </p>
+   </div>
+   <div class="ocr_carea" id="block_1_2" title="bbox 893 1355 925 1372">
+    <p class="ocr_par" id="par_1_3" lang="ynk" title="bbox 893 1355 925 1372">
+     <span class="ocr_line" id="line_1_5" title="bbox 893 1355 925 1372; baseline 0.031 -1; x_size 22; x_descenders 5.5; x_ascenders 5.5">
+      <span class="ocrx_word" id="word_1_23" title="bbox 893 1355 925 1372; x_wconf 61"><strong>253</strong></span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

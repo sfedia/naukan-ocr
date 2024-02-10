@@ -6,3 +6,4 @@ from . import PageSplitter
 from . import PinModel
 from . import RuleBasedHocrFormatter
 from . import RuleBasedTextFormatter
+from . import TextBasedHocrPatcher
