@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "output/nenl1990-hocr/page-053.jpg"; bbox 0 0 900 1100; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 392 53 698 170">
+    <p class='ocr_par' id='par_1_1' lang='ynk' title="bbox 393 53 668 82">
+     <span class='ocr_line' id='line_1_1' title="bbox 393 53 668 82; baseline 0.015 -9; x_size 26; x_descenders 6; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_1' title='bbox 393 53 508 79; x_wconf 69'><strong>Ануглну</strong></span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 518 60 584 75; x_wconf 74'><strong>впын</strong></span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 596 58 668 82; x_wconf 64'><strong>углаӄ?</strong></span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='ynk' title="bbox 392 83 686 110">
+     <span class='ocr_line' id='line_1_2' title="bbox 392 83 686 110; baseline 0.014 -8; x_size 24; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_4' title='bbox 392 83 535 109; x_wconf 70'><strong>Ануӄлъиӈӷан</strong></span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 547 91 686 110; x_wconf 61'><strong>ысӽаӄвмкьвн.</strong></span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='ynk' title="bbox 393 113 698 170">
+     <span class='ocr_line' id='line_1_3' title="bbox 393 113 608 138; baseline 0.014 -6; x_size 23; x_descenders 4; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_6' title='bbox 393 113 528 138; x_wconf 70'><strong>Ысӽаӄӈанку</strong></span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 541 121 608 138; x_wconf 74'><strong>ӄилн,</strong></span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 463 147 698 170; baseline 0.013 -8; x_size 24; x_descenders 6; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_8' title='bbox 463 149 584 169; x_wconf 69'><strong>кывкаӽӄуя,</strong></span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 596 147 698 170; x_wconf 75'><strong>внуӄын!..</strong></span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
