@@ -1,4 +1,5 @@
-from pdf2image import convert_from_bytes
+from pdf2image import convert_from_path
+import tempfile
 import os
 
 class PdfToJpgPages:
@@ -11,6 +12,9 @@ class PdfToJpgPages:
         for dirname in (self.input_path, self.output_dir):
             if not os.path.exists(dirname):
                 os.makedirs(dirname)
-        images = convert_from_bytes(open(self.input_path, "rb").read())
+        print("Started converting...")
+        with tempfile.TemporaryDirectory() as path:
+            images = convert_from_path(self.input_path, output_folder=path)
         for i in range(len(images)):
             images[i].save(f"{self.output_dir}/{self.file_prefix}.{i + 1}.jpg")
+            print(f"Saved image #{i}")
