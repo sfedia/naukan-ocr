@@ -7,6 +7,10 @@ tesseract --oem 0 -l rus ynk.nenl1985.exp1.jpg ynk.nenl1985.exp1 batch.nochop ma
 sudo cp ynk.traineddata /opt/local/share/tessdata
 python3 manager.py nenl1985 make-boxes ynk ynk 3
 ```
+### Генерация в многоколоночном режиме
+```
+tesseract --oem 0 --psm 1 -l ynk gol2004.157.jpg batch.nochop makebox
+```
 ## Тренировка на основе (исправленного) бокса 
 ```
 tesseract -l rus ynk.nenl1985.exp1.jpg ynk.nenl1985.exp1 box.train
