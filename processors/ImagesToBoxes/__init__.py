@@ -21,8 +21,8 @@ class ImagesToBoxes:
             name, extension = picture.rsplit(".", 1)
             cmd = (
                 f'tesseract --oem 0 -l ynk {name}.jpg {name} batch.nochop makebox '
-                f'&& mv {name}.box {self.output_dir}/{self.img_name_prefix}.exp{i}.box'
-                f'&& cp {name}.jpg {self.output_dir}/{self.img_name_prefix}.exp{i}.jpg'
+                f'&& mv {name}.box {self.output_dir}/{self.img_name_prefix}.exp{i.zfill(3)}.box'
+                f'&& cp {name}.jpg {self.output_dir}/{self.img_name_prefix}.exp{i.zfill(3)}.jpg'
             )
             res = subprocess.check_output(
                 cmd,
