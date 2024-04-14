@@ -16,5 +16,5 @@ class PdfToJpgPages:
         with tempfile.TemporaryDirectory() as path:
             images = convert_from_path(self.input_path, output_folder=path)
         for i in range(len(images)):
-            images[i].save(f"{self.output_dir}/{self.file_prefix}.{(i + 1).zfill(4)}.jpg")
+            images[i].save(f"{self.output_dir}/{self.file_prefix}.{str(i + 1).zfill(4)}.jpg")
             print(f"Saved image #{i}")
